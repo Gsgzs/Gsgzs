@@ -2,9 +2,7 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Gsgzs&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gsgzs&layout=compact" />
-
-<br />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gsgzs&layout=compact" />
 
 #### Dev Env
 <img align="left" src="https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white" />
