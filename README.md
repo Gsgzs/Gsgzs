@@ -4,6 +4,7 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gsgzs&layout=compact" />
 
+<br/>
 #### Dev Env
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
