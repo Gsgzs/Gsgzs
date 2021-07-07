@@ -4,6 +4,10 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gsgzs&layout=compact" />
 
+#### Dev Env
+![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 <!--
 **Gsgzs/Gsgzs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
