@@ -1,4 +1,4 @@
-<table><tr><td style='color:#fff;background:#d1eeee;'>This is my world!</td></tr></table>
+<table><tr><td>This is my world!</td></tr></table>
 
 ### Hi there 👋 Welcome to my github ~
 
