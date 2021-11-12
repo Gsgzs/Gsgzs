@@ -8,11 +8,11 @@
 <img  src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 
 #### Stats
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Gsgzs&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gsgzs&layout=compact" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=ydsuper&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ydsuper&layout=compact" />
 
 <!--
-**Gsgzs/Gsgzs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ydsuper/ydsuper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
